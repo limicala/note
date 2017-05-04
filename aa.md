@@ -16,6 +16,7 @@ Atx形式：
 ## 2、插入图片
 ![图片](https://avatars1.githubusercontent.com/u/22466282?v=3&s=460)
 
+![黄油](static/test.jpeg)
 ## 3、强调
 
 *斜体*
