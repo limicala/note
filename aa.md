@@ -14,7 +14,7 @@ Atx形式：
 ## 标题2
 
 ## 2、插入图片
-![图片](https://www.baidu.com/img/baidu_jgylogo3.gif)
+![图片](https://avatars1.githubusercontent.com/u/22466282?v=3&s=460)
 
 ## 3、强调
 
@@ -81,6 +81,12 @@ use "-" + Space
 - aa
 - bb
 - cc
+
+use "[]" + Space
+
+- [x] aaa
+- [x] bbb
+- [ ] nn
 
 
 
