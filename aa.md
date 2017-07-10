@@ -52,7 +52,6 @@ next line
 ## 7.link
 
 [link text](http://github.com)
-
 ## 8.dashes
 
 a
