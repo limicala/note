@@ -1,0 +1,7 @@
+# window 静默安装
+
+[Windows批处理：自动部署常用软件（静默安装）](http://www.cnblogs.com/sjy000/archive/2015/09/01/4775334.html)
+
+[一些常用软件静默安装参数(nsis,msi,InstallShield ,Inno)](http://blog.csdn.net/zhaobangyu/article/details/18406957)
+
+[批处理实现软件静默批量安装，批处理实现静默](http://www.bkjia.com/Windowsjc/1213805.html)
